@@ -2,7 +2,7 @@
 
 This repository contains data used in:
 
-    Arora, V., Magee, L., & Munn, L. (2023). (Re)framing Built Heritage through the Machinic Gaze. arXiv preprint arXiv:2310.04628.
+> Arora, V., Magee, L., & Munn, L. (2023). (Re)framing Built Heritage through the Machinic Gaze. [arXiv preprint arXiv:2310.04628](https://arxiv.org/abs/2310.04628).
 
 The three main directories contain outputs from three generative image models:
 
